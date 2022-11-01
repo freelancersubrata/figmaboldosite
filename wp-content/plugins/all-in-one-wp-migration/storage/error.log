@@ -1,0 +1,393 @@
+Oct 31 2022 06:49:37
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Oct 31 2022 06:50:36
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 06:50:36
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 06:50:36
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 06:50:36
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 06:50:36
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 06:50:36
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 06:50:37
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 31 2022 06:50:37
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 31 2022 06:50:37
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 31 2022 06:50:37
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 31 2022 06:50:37
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 31 2022 07:29:10
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 07:29:10
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 07:29:10
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 07:29:10
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 07:29:10
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 07:29:10
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 07:38:50
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 31 2022 07:39:00
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 31 2022 07:39:22
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 07:39:22
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 07:39:22
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 07:39:22
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 07:39:22
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 07:39:22
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 15:29:38
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Oct 31 2022 15:30:46
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 15:30:46
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 15:30:46
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 15:30:46
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 15:30:46
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 15:30:46
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 15:52:57
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 31 2022 15:52:59
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 15:52:59
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 15:52:59
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 15:52:59
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 15:52:59
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 15:52:59
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 15:53:01
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 15:53:03
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:45:07
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:04
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:06
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:08
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:10
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:12
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:14
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:16
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:18
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:21
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:22
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:25
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 31 2022 17:46:27
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:29
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:31
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:31
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:32
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:34
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:35
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:35
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:40
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:47
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:48
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:48
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:50
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:56
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:56
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:46:59
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 31 2022 17:47:00
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:47:00
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:47:03
+{"type":2,"message":"dns_get_record(): DNS Query failed","file":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\wordfence\\lib\\wfUtils.php","line":998}
+
+Oct 31 2022 17:47:05
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Oct 31 2022 17:47:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 17:47:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 17:47:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 17:47:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 17:47:06
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 17:47:06
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 17:47:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 31 2022 17:47:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 31 2022 17:47:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 31 2022 17:47:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 31 2022 17:47:07
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Oct 31 2022 17:54:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Oct 31 2022 17:54:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Oct 31 2022 17:54:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Oct 31 2022 17:54:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Oct 31 2022 17:54:17
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Oct 31 2022 17:54:17
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Oct 31 2022 17:54:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Oct 31 2022 17:54:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Oct 31 2022 17:54:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Oct 31 2022 17:54:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Oct 31 2022 17:54:18
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Nov 01 2022 06:51:29
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Nov 01 2022 06:52:29
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Nov 01 2022 06:52:29
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Nov 01 2022 06:52:29
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Nov 01 2022 06:52:29
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Nov 01 2022 06:52:29
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Nov 01 2022 06:52:29
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Nov 01 2022 06:52:30
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Nov 01 2022 06:52:30
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Nov 01 2022 06:52:30
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Nov 01 2022 06:52:30
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Nov 01 2022 06:52:30
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Nov 01 2022 06:58:12
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Nov 01 2022 06:58:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Nov 01 2022 06:58:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Nov 01 2022 06:58:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Nov 01 2022 06:58:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Nov 01 2022 06:58:32
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Nov 01 2022 06:58:32
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Nov 01 2022 06:58:34
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Nov 01 2022 06:58:34
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Nov 01 2022 06:58:34
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Nov 01 2022 06:58:34
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Nov 01 2022 06:58:34
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+
+Nov 01 2022 10:12:11
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":63}
+
+Nov 01 2022 10:12:11
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":73}
+
+Nov 01 2022 10:12:11
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":89}
+
+Nov 01 2022 10:12:11
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":102}
+
+Nov 01 2022 10:12:11
+{"Number":8192,"Message":"Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Cookie\\Jar.php","Line":111}
+
+Nov 01 2022 10:12:11
+{"Number":8192,"Message":"http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Transport\\cURL.php","Line":345}
+
+Nov 01 2022 10:12:12
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":40}
+
+Nov 01 2022 10:12:12
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":51}
+
+Nov 01 2022 10:12:12
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":68}
+
+Nov 01 2022 10:12:12
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":82}
+
+Nov 01 2022 10:12:12
+{"Number":8192,"Message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp2\\htdocs\\jobsite\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","Line":91}
+

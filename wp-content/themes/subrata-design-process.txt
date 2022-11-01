@@ -1,0 +1,207 @@
+Project Name: Personal Portfolio Website
+Theme: BeOnePage
+License Key: 796c3c5a9bcf3fffe668d4e95e6497fd
+
+STEP 1: WordPress Installation (Localhost)
+         ===============================
+	
+	Database: subrata
+	User: subrata
+	User Password: @hEBjuZfmUH4ssW5
+
+	Site Title: Subrata
+	Tagline: My job is to build your website so that it is functional and user-friendly but at the same time attractive. 
+
+	WordPress Login Information
+	User: subrata
+	Password: 6Ldmxf2v*$UpmEiYuf
+
+========================================
+STEP 2: Premium Theme & Plugin Installation
+
+STEP 3: Demo Import | Static Page Setup
+
+STEP 4: Menu Setup
+
+	Home
+	Services
+	Portfolio
+	Testimonial
+	Plans
+	Contact
+
+STEP 5: General Setup - Sticky Menu, Spinner, Progress Bar, Go to Top
+
+STEP 6: Typography - Poppins & Open Sans
+
+STEP 7: Favicon & Logo
+
+STEP 8: HERO SECTION - Slider
+
+	Heading - Web Designer • Developer
+	Content - HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP, SAAS, PHP, WORDPRESS
+	Button  - Hire Me
+
+STEP 9: Color
+
+	#ffcc00 -  #181a1c  -  #eceff3
+
+STEP 10: ABOUT ME SECTION
+	
+	Title: About Me
+	Subtitle: First you should know
+
+	Content: 
+
+Hello, My name is Subrata. I'm a freelance web designer and front end developer. My job is to build your website so that it is functional and user-friendly but at the same time attractive.
+
+I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable.
+
+I’ve worked with companies of all shapes and sizes, so contact me if you’d like to work together on your next project.
+
+In my free time, I enjoy being outdoors, listening to music, traveling and experiencing new and exciting adventures.
+
+	Skill Bar: 
+
+		HTML & CSS
+		JAVASCRIPT & JQUERY
+		BOOTSTRAP & SAAS
+		WORDPRESS & PHP
+
+STEP 11: SERVICES SECTION
+
+	Title: My Services
+	Subtitle: I provide a complete list of best wordpress services
+
+	Service 1: 
+		Title: Web Design & Development
+		Description: I will make a clean, unique and professional looking website. My design must be responsive in all devices, pixel perfect, w3c valid code, clean coding and seo friendly. I’ve helped so many organizations improve their online presence and hope I can help you to make an awesome website for your business.
+
+	Service 2: 
+		Title: e-Commerce Solutions
+		Description: Do you want to sell your product online? I will build your online eCommerce website with very professional looking. I can add an e-commerce shopping cart system to your website that will allow you to sell your products and receive real-time credit card payments from your customers.
+
+	Service 3:
+		Title: Page Speed Optimization
+		Description: I am the fuel behind the high speed of innumerable fast running WordPress website. I have practiced and learned all the technical aspects related to WordPress. Only the wordpress sites powered with speed, capable of running at full throttle are going to survive in this tough and competitive world of the Internet.
+		
+STEP 12: PORTFOLIO SECTION
+
+	Title: My Latest Works
+	Subtitle: An eye for detail makes my works excellent
+
+STEP 13: WHY CHOOSE ME SECTION
+
+	Title: Why choose ME
+	Subtitle: I can provide the best quality services
+
+	Icon Service 1: 
+		Title: Responsive Web Design
+		Content: I will provide you excellent web design services. Your website will be loaded first and it will show perfectly every device. I believe in providing the best experience, designs, and results.
+
+	Icon Service 2: 
+		Title: Reasonable Cost & satisfaction
+		Content: I always try my best to satisfy my clients and take reasonable cost. I work closely with my clients on each project to create not only an amazing design that will help the business grow, but to creates a long-term relationship of trust and caring.
+
+
+	Icon Service 3: 
+		Title: Maintenance & Support
+		Content: I provide ongoing support and maintenance for many of my clients. I offer everything from updates, backups and constant changes to your online presence.
+
+	Icon Service 4: 
+		Title: Secure & using the latest tools
+		Content: I will use the latest tools to make your website clean, unique and professional. Your website must be secure. Every code will be seo friendly and w3c valid.
+
+
+STEP 14: TESTIMONIAL SECTION
+
+	Title: What Clients Say
+	Subtitle: Why my customers love me
+
+	Content 1: Subrata is the best web designer! Always does an incredible job. Very very happy with the project and Subrata's work. He always does an incredible job. Thank you Subrata for being so fantastic.
+
+	Content 2: I build my own websites for my business and found a plugin called "slider revolution" which can completely transform the look of your website. I searched on Fiverr for a specialist on it and found Subrata. The work was delivered speedily and is fantastic! Exceeded all expectations!
+
+	Content 3: Very pleased. Completed quicker than the time frame and good communication. He completed my website project exactly as I requested on the first try. No revision was necessary. Highly recommend.
+
+	Content 4: It is my first time using Fiverr and Moshiur made the experience really easy. I liked how he ensured to clarify the brief and he was very friendly and kept me updated along the way. I will definitely work with him again.
+
+STEP 15: PLANS SECTION
+	
+	Title: See My Plans
+	Subtitle: Find the plan that fits your needs
+
+	Package:
+
+Title: Start Up
+Content:
+    
+WordPress Install
+Responsive Design
+5 Pages Website Design
+E-Commerce Functionality
+Automatic Backup
+Free Website Transfer
+Website Security
+Revision Unlimited
+
+STEP 16: CONTACT SECTION
+
+	Title: Contact Me
+	Subtitle: I'd really love to hear your feedback
+
+STEP 17: FOOTER SECTION
+
+STEP 18: DELETE UNNECESSARY THINGS
+
+STEP 19: RESPONSIVE CHECK
+	
+	- Google Mobile Friendly Test
+
+STEP 20: WEBSITE TRANSFER LOCALHOST TO LIVE SERVER 
+	 DOMAIN & HOSTING
+	
+		- namecheap
+		- siteground
+
+	Portfolio - 1GB, FREE SSL, Cloudflare CDN, LITESPEED WEB SERVER
+
+	.com -> 2500TK
+	.me or .pro -> 2000TK
+
+	Host Support: https://facebook.com/codermoshiur
+
+STEP 21: LICENSE ACTIVE
+
+STEP 22: WEBSITE SPEED OPTIMIZATION
+
+	- WP-Rocket
+	- Short Pixel | Smush
+	- SSL & Cloudflare CDN
+
+		- Cloudflare Account
+		- Domain Access
+
+STEP 23: Google Analytics | Email Account | Contact Form Configuration | Email Connect With Gmail
+
+STEP 24: Security
+
+	- Always Keep WordPress, plugins, and themes up to date.
+	- Use a good WordPress hosting company.
+	- Use strong passwords.
+	- Take WordPress backup regularly.
+	- Don’t install WordPress plugins or themes from unknown or untrusted sources.
+	- Take care of permissions you give to your website users, authors and editors.
+	- Secure your computer.
+
+STEP 25: BackUp Configuration & Maintenance
+
+	- Updraft Plus | Dropbox Refer Link: https://db.tt/YTyWCvsTvO
+	- cPanel Backup
+
+=======================================
+
+DONE ! YOU ARE AWESOME !! THANK YOU !!!
+	
+
+SubDomain URL: subrata.coderspractice.live	
